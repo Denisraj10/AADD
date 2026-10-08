@@ -4,7 +4,7 @@
 // ----- Free API key (Web3Forms) -----
 // 1. Go to https://web3forms.com and enter your email to get a FREE access key.
 // 2. Paste the key below. Bookings will then be emailed to you.
-var WEB3FORMS_KEY = "PASTE_YOUR_FREE_ACCESS_KEY_HERE";
+var WEB3FORMS_KEY = "608c2864-f733-410c-a689-66eea2b8253c";
 
 var OWNER_WHATSAPP = "919043972076";
 
